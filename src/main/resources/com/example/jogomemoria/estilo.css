@@ -1,0 +1,20 @@
+.botao-sombra{
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.5), 10, 0.3, 5, 5);
+}
+
+.gradePrincipal{
+    -fx-background-color: red;
+    -fx-animated: 12px;
+    -fx-alternative-column-fill-visible: red;
+}
+
+.botao-selecionado{
+    -fx-background-color: #2e7d32;
+    -fx-text-fill: white;
+    -fx-border-color: #c8e6c9;
+    -fx-border-width: 2px;
+}
+
+.carta-sombra{
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.5), 10, 0.3, 5, 5);
+}
