@@ -25,8 +25,14 @@ git clone https://github.com/Victorozana/jogo-da-memoria.git
 ```
 
 ---
-```markdown
-![Tela Inicial](tela-inicial.jpeg)
-![Tela do Jogo](tela-principal.jpeg)
+<h3 align="center">Tela Inicial</h3>
+<p align="center">
+  <img width="800" src="https://raw.githubusercontent.com/Victorozana/jogo-da-memoria/main/tela-inicial.jpeg" />
+</p>
+
+<h3 align="center">Tela Principal</h3>
+<p align="center">
+  <img width="800" src="https://raw.githubusercontent.com/Victorozana/jogo-da-memoria/main/tela-principal.jpeg" />
+</p>
 
 
