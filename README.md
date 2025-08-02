@@ -22,4 +22,11 @@ Um jogo da memória desenvolvido em Java com JavaFX. O objetivo é encontrar par
 1. Clone o repositório:
 ```bash
 git clone https://github.com/Victorozana/jogo-da-memoria.git
-``` 
+```
+
+---
+```markdown
+![Tela Inicial](tela-inicial.jpeg)
+![Tela do Jogo](tela-principal.jpeg)
+
+
