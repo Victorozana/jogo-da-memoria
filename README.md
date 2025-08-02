@@ -35,4 +35,9 @@ git clone https://github.com/Victorozana/jogo-da-memoria.git
   <img width="800" src="https://raw.githubusercontent.com/Victorozana/jogo-da-memoria/main/tela-principal.jpeg" />
 </p>
 
+<h3 align="center">Demonstração do Jogo</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Victorozana/jogo-da-memoria/main/gif-jogo-memoria.gif" width="800" />
+</p>
+
 
